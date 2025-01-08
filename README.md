@@ -1,4 +1,4 @@
-# 7- 页面横向滑动效果
+# 7 - 页面横向滑动效果
 <a href="https://www.bilibili.com/video/BV1uW4y1c7LW">
 <img src="https://i0.hdslb.com/bfs/archive/2bed7770f0c052122e65650e1ed65b0752fa3216.jpg" width="70%">
 </a>
