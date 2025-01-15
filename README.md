@@ -15,6 +15,6 @@
 ## **Notice⚠️**
 - 因为JS的scrollY计算特性，以及滑动事件的触发频率问题，滑动过程中容易出现“滑动抖动”BUG
 - 配置GSAP或者Lenis来设置平滑滚动效果可以有效缓解以上问题
-- 最有效的解决方案是修改“滑动固定”的代码逻辑，详细可以参考[该链接](https://github.com/JIEJOE-WEB-Tutorial/007-02-scroll-follow)
+- 最有效的解决方案是修改“滑动固定”的代码逻辑，详细可以参考该[链接](https://github.com/JIEJOE-WEB-Tutorial/007-02-scroll-follow)
 
 
